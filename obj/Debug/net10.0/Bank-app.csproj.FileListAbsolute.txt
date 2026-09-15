@@ -1,0 +1,15 @@
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\bin\Debug\net10.0\Bank-app.exe
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\bin\Debug\net10.0\Bank-app.deps.json
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\bin\Debug\net10.0\Bank-app.runtimeconfig.json
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\bin\Debug\net10.0\Bank-app.dll
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\bin\Debug\net10.0\Bank-app.pdb
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.AssemblyInfoInputs.cache
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.AssemblyInfo.cs
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.csproj.CoreCompileInputs.cache
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.sourcelink.json
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.dll
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\refint\Bank-app.dll
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.pdb
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\Bank-app.genruntimeconfig.cache
+C:\Users\Johan\NBI\vecka 4\Bank-app\Bank-app\obj\Debug\net10.0\ref\Bank-app.dll
